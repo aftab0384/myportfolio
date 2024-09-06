@@ -1,54 +1,24 @@
 [
   {
-    "name": "Guessing Game",
-    "desc": "Developed a Java-based number guessing game application featuring user input, random number generation, and feedback on guesses.",
+    "name": "Restaurant",
+    "desc": {
+      "name": "Restaurant",
+      "desc": "Developed a comprehensive web application for managing restaurants, utilizing cutting-edge technologies to streamline operations and enhance customer experience. Technologies Used: Backend: Java, Spring Boot, Hibernate, Frontend: React, Database: MySQL, Security: JSON Web Tokens (JWT), Spring Security",
+      "image": "notystackandroid",
+      "category": "Java",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/aftab0384/CafeManagement"
+      }
+    },
     "image": "notystackandroid",
     "category": "Java",
     "links": {
-      "view": "#",
-      "code": "https://github.com/ajruddinpw/task1"
+      "view": "https://askaja.vercel.app/login",
+      "code": "https://github.com/aftab0384/askaja"
     }
   },
-  {
-    "name": "Grade Calculator",
-    "desc": "Developed a Java-based student grade calculator project utilizing user input for subject marks, computing average percentage, and determining grades.",
-    "image": "sppuprepandroid",
-    "category": "Java",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/ajruddinpw/task2/blob/main/task2.java"
-    }
-  },
-  {
-    "name": "Student Management System",
-    "desc": "Developed a Java-based student management system enabling interactive functionalities like adding, removing, searching, and displaying student records via a command-line interface.",
-    "image": "newsboxandroid",
-    "category": "Java",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/ajruddinpw/task3/blob/main/task3.java"
-    }
-  },
-  {
-    "name": "Watchlist-Application",
-    "desc": "Developed a Java watchlist app allowing users to add,prioritize,comment,and rate movies.Integrated IMDb ratings for informed movie selection and prioritization options for personalized lists.",
-    "image": "weatherlyandroid",
-    "category": "Java",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/ajruddinpw/WatchListApp-project"
-    }
-  },
-  {
-    "name": "Book-Store",
-    "desc": " Designed and developed a book store application in Java, enabling user registration and CRUD operations for book management.",
-    "image": "instagrammern",
-    "category": "Java",
-    "links": {
-      "view": "",
-      "code": "https://github.com/ajruddinpw/bookstore-project"
-    }
-  },
+
   {
     "name": "Student Management System",
     "desc": "Engineered a robust student management system utilizing Spring Boot,Spring MVC,Spring Data JPA,and Thymeleaf,allowing seamless addition, update, and deletion of student records. ",
@@ -59,16 +29,7 @@
       "code": "#"
     }
   },
-  {
-    "name": "Job-App",
-    "desc": "Developed a job application platform with Spring Web, Lombok, and JSP, enabling recruiters to post jobs and applicants to search based on their fields.",
-    "image": "resumegen",
-    "category": "Java",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
+
       
   {
     "name": "Portfolio Website",
@@ -76,19 +37,11 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "ajruddin.vercel.app",
-      "code": "https://github.com/ajruddinpw/myPortfolio"
+      "view": "https://aftabportfolio-eight.vercel.app/",
+      "code": "https://github.com/aftab0384/myportfolio"
     }
   },
        
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  }        
+    
 ]
+ 

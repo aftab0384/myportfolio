@@ -65,7 +65,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio MOHAMMAD AJRUDDIN ALI";
+        document.title = "Experience | Portfolio AFTAB ALAM";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     else {
