@@ -4,15 +4,15 @@
     "desc": {
       "name": "Restaurant",
       "desc": "Developed a comprehensive web application for managing restaurants, utilizing cutting-edge technologies to streamline operations and enhance customer experience. Technologies Used: Backend: Java, Spring Boot, Hibernate, Frontend: React, Database: MySQL, Security: JSON Web Tokens (JWT), Spring Security",
-      "image": "notystackandroid",
-      "category": "Java",
+      "image": "rjava",
+      "category": "java",
       "links": {
         "view": "#",
-        "code": "https://github.com/aftab0384/CafeManagement"
+        "code": "https://github.com/aftab0384/CafeManagement/tree/master"
       }
     },
-    "image": "notystackandroid",
-    "category": "Java",
+    "image": "rfront",
+    "category": "react",
     "links": {
       "view": "https://askaja.vercel.app/login",
       "code": "https://github.com/aftab0384/askaja"
@@ -20,13 +20,13 @@
   },
 
   {
-    "name": "Student Management System",
+    "name": "Restaurant Backend",
     "desc": "Engineered a robust student management system utilizing Spring Boot,Spring MVC,Spring Data JPA,and Thymeleaf,allowing seamless addition, update, and deletion of student records. ",
-    "image": "flipkartmern",
+    "image": "rjava",
     "category": "Java",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/aftab0384/CafeManagement/tree/master"
     }
   },
 
@@ -40,7 +40,7 @@
       "view": "https://aftabportfolio-eight.vercel.app/",
       "code": "https://github.com/aftab0384/myportfolio"
     }
-  },
+  }
        
     
 ]

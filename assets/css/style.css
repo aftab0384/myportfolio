@@ -537,13 +537,21 @@ header .navbar ul li a:hover {
   background: #e5ecfb;
   min-height: 80vh;
 }
-.education .qoute {
+.education {
   font-size: 1.5rem;
   text-align: center;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   margin-top: 0.5rem;
 }
+.quote {
+  text-align: center; /* Centers the text horizontally */
+  margin: 20px 0; /* Adds space above and below the quote */
+  font-size: 18px; /* Optional: Adjust font size */
+  font-style: italic; /* Optional: Adds italic style for emphasis */
+  color: #333; /* Optional: Adjust text color */
+}
+
 .education .box-container {
   display: flex;
   flex-wrap: wrap;

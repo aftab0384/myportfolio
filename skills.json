@@ -18,12 +18,12 @@
     
     {
         "name": "REST APIs",
-        "icon": "https://img.icons8.com/external-outline-wichaiwi/64/000000/external-api-coding-and-development-outline-wichaiwi.png"
+        "icon": "/assets/images/projects/restapi.png"
     },
     
     {
         "name": "Maven",
-        "icon": "https://img.icons8.com/color/48/000000/maven.png"
+        "icon": "/assets/images/projects/maven.png"
     },
     
     
